@@ -1,0 +1,35 @@
+img
+{
+  height: 250px;
+  width: 250px;
+  margin-left: 45px;
+  /* padding: flex; */
+  box-shadow: 4px 4px 4px rgb(190, 100, 100);
+}
+/* .movies1
+{
+  display: flex;
+  gap: 20px;
+}
+.movie1{
+  display: flex;
+  padding: 50px;
+  box-shadow: 5px 5px 5px black;
+} */
+
+
+.Movies1{
+  display: flex;
+  gap: 100px;
+  
+}
+
+.Movies2{
+  display: flex;
+  gap: 100px;
+  
+}
+
+.text-center{
+  box-shadow: 4px 4px 4px rgb(54, 49, 49);
+}
